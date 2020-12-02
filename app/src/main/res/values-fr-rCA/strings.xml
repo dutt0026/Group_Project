@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Title">" Projet de groupe final"</string>
+    <string name="Welcome">" bienvenue dans le projet final"</string>
+    <string name="button1">" base de données audio"</string>
+    <string name="Artist">" Entrez un artiste"</string>
+    <string name="search">Chercher</string>
+    <string name="results">résultats pour</string>
+</resources>
