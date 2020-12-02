@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Final Group Project</string>
+    <string name="Title">Final Group Project</string>
+    <string name="button1">Audio Database</string>
+    <string name="Welcome">Welcome to the Final Project</string>
+    <string name="Artist">Enter an Artist</string>
+    <string name="search">Search</string>
+    <string name="results">"Results for "</string>
 </resources>
