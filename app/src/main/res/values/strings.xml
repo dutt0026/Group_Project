@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Final Group Project</string>
+    <string name="button1">Audio Database</string>
+    <string name="Welcome">Welcome to the Final Project</string>
+    <string name="Artist">Enter an Artist</string>
+    <string name="search">Search</string>
+    <string name="results">"Results for "</string>
+    <string name="Save_Album">Save Album</string>
+    <string name="saved">See Your Saved albums</string>
+    <string name="Saved_Title">Saved Albums</string>
+    <string name="Del_Album">Delete Album</string>
+    <string name="Delete">Delete</string>
+    <string name="You_sure">Do you wish to delete this album from your list?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Back">Back</string>
+    <string name="Info">Information</string>
+    <string name="Help">Help</string>
+    <string name="Audio_help">Enter an Artist to see their albums, click on the ablum you wish to see. Click on see saved to see your daved ablums.</string>
+    <string name="Details_help">Press save to save this album for later. click on a song launch a google search for the song.</string>
+    <string name="Saved_help">Select an album to see the songs of the album</string>
+    <string name="Delete_help">Press delete to delete this album from your saved album list. select a song to launch a google search for that song.</string>
+    <string name="audio_toast">You have selected:</string>
+    <string name="details_toast">You have saved this album</string>
+    <string name="saved_toast">Welcome to you saved albums</string>
+    <string name="delete_toast">This album is now deleted</string>
+    <string name="details_sb">you have selected</string>
+    <string name="delete_sb">You clicked help</string>
 </resources>

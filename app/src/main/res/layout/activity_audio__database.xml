@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Audio_Database"
+    android:orientation="vertical">
+
+ <EditText
+     android:id="@+id/art_search"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:hint="@string/Artist"/>
+
+ <Button
+     android:id="@+id/search"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="@string/search"/>
+
+ <TextView
+     android:id="@+id/results"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:textSize="30dp"/>
+
+ <ProgressBar
+     android:id="@+id/prog_bar"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:visibility="invisible"
+     android:max="100"
+     style="?android:attr/progressBarStyleHorizontal"
+     />
+
+ <Button
+     android:id="@+id/ssa"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="@string/saved"/>
+
+ <Button
+     android:id="@+id/help"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="@string/Help"/>
+
+
+ <ListView
+     android:id="@+id/list"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"/>
+
+
+
+</LinearLayout>
