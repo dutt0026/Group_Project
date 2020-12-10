@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Title">" Projet de groupe final"</string>
+    <string name="app_name">" Projet de groupe final"</string>
     <string name="Welcome">" bienvenue dans le projet final"</string>
     <string name="button1">" base de données audio"</string>
     <string name="Artist">" Entrez un artiste"</string>
     <string name="search">Chercher</string>
     <string name="results">résultats pour</string>
+    <string name="Save_Album">" Enregistrer l'album"</string>
+    <string name="saved">" voir votre album enregistré"</string>
+    <string name="Saved_Title">" Albums enregistrés"</string>
+    <string name="Del_Album">"Supprimer l'album "</string>
+    <string name="Delete">Supprimer</string>
+    <string name="You_sure">" Souhaitez-vous supprimer cet album de votre liste?"</string>
+    <string name="Yes">Oui</string>
+    <string name="No">Non</string>
+    <string name="Back">" retour"</string>
+    <string name="Info">" information"</string>
+    <string name="Help">Aidez-moi</string>
+    <string name="Audio_help">Entrez un artiste pour voir ses albums, cliquez sur l\'ablum que vous souhaitez voir. Cliquez sur Enregistrer pour enregistrer cet album pour plus tard.</string>
+    <string name="Details_help">" Appuyez sur Enregistrer pour enregistrer cet album pour plus tard. cliquez sur une chanson lancez une recherche google pour la chanson."</string>
+    <string name="Saved_help">" Sélectionnez un album pour voir les chansons de l'album"</string>
+    <string name="Delete_help">Appuyez sur Supprimer pour supprimer cet album de votre liste d\'albums enregistrés. sélectionnez une chanson pour lancer une recherche Google pour cette chanson.</string>
+    <string name="audio_toast">" Vous avez sélectionné"</string>
+    <string name="details_toast">You have saved this album</string>
+    <string name="saved_toast">Bienvenue dans vos albums enregistrés</string>
+    <string name="delete_toast">" Cet album est maintenant supprimé"</string>
+    <string name="details_sb">vous avez sélectionné</string>
+    <string name="delete_sb">" Vous avez cliqué sur l'aide"</string>
 </resources>
