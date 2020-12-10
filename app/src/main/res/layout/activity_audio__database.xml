@@ -25,10 +25,33 @@
      android:layout_height="wrap_content"
      android:textSize="30dp"/>
 
+ <ProgressBar
+     android:id="@+id/prog_bar"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:visibility="invisible"
+     android:max="100"
+     style="?android:attr/progressBarStyleHorizontal"
+     />
+
+ <Button
+     android:id="@+id/ssa"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="@string/saved"/>
+
+ <Button
+     android:id="@+id/help"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="@string/Help"/>
+
 
  <ListView
      android:id="@+id/list"
      android:layout_width="match_parent"
      android:layout_height="match_parent"/>
+
+
 
 </LinearLayout>
