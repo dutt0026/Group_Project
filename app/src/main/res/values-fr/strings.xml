@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //activity_event_search
+    <string name="Welcome">Bienvenue! Rechercher les prochains evenements presde chez vous!</string>
+    <string name="CityName">Ville</string>
+    <string name="radius">Rayon</string>
+    <string name="search_button">Rechercher des evenements!</string>
+    <string name="Saved_EventsBtn">Evenements Enregistres</string>
+    <string name="savedEvents">Voivi une liste de vos evenements enregistres!</string>
+
+    <!--activity_event -->
+    <string name="event_detail_title">Titre de levenement: </string>
+    <string name="event_detail_date">Date de Statistique:</string>
+    <string name="event_detail_price">Echelle des Prix: </string>
+    <string name="event_detail_url">URL: </string>
+    <string name="btn_save">Enregistrer</string>
+
+    <!--activity_event_list -->
+    <string name="eventsNearYou">Voivi une liste devenements pres de chez vous!</string>
+
+    <!--header_layout -->
+    <string name="title_project">CST2335 Recherche devenement TicketMaster</string>
+    <string name="author">Auteure: Paris Dutton</string>
+
+    <!--navigation_menu-->
+    <string name="nav_search">Chercher</string>
+    <string name="nav_savedEvents">Evenements Enregistres</string>
+    <string name="nav_help">Aidez-moi</string>
+    <string name="French">Francais</string>
+
+
+
+
+
+    <string name="save_this_event">Enregistrer levenement</string>
+    <string name="back">Retour a la liste des evenements</string>
+
+    <string name="Search">Chercher</string>
+    <string name="app_name">Final Group Project</string>
+    <string name="activity_TicketMaster">Ticket Master Event Search</string>
+    <string name="event_add">Add Event</string>
+    <string name="event_details">View Event Details</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+
+    <string name="event_detail_delete">Delete</string>
+
+
+    <string name="event_detail_save">Enregistrer</string>
+</resources>

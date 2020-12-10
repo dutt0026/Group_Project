@@ -1,3 +1,47 @@
 <resources>
+    //activity_event_search
+    <string name="Welcome">Welcome! Search For Upcoming Events Near You!</string>
+    <string name="CityName">City</string>
+    <string name="radius">Radius</string>
+    <string name="search_button">Search Events!</string>
+    <string name="Saved_EventsBtn">Saved Events</string>
+    <string name="savedEvents">Here is a list of your saved events!</string>
+
+    <!--activity_event -->
+    <string name="event_detail_title">Event Title: </string>
+    <string name="event_detail_date">Start Date:</string>
+    <string name="event_detail_price">Price Range: </string>
+    <string name="event_detail_url">URL: </string>
+    <string name="btn_save">Save</string>
+
+    <!--activity_event_list -->
+    <string name="eventsNearYou">Here is a list of events near you!</string>
+
+    <!--header_layout -->
+    <string name="title_project">CST2335 TicketMaster Event Search</string>
+    <string name="author">Author: Paris Dutton</string>
+
+    <!--navigation_menu-->
+    <string name="nav_search">Search</string>
+    <string name="nav_savedEvents">Saved Events</string>
+    <string name="nav_help">Help</string>
+    <string name="French">Francais</string>
+
+
+    <string name="save_this_event">Save Event</string>
+    <string name="back">Back to Events List</string>
+
+    <string name="Search">Search</string>
     <string name="app_name">Final Group Project</string>
+    <string name="activity_TicketMaster">Ticket Master Event Search</string>
+    <string name="event_add">Add Event</string>
+    <string name="event_details">View Event Details</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+
+    <string name="event_detail_delete">Delete</string>
+
+
+    <string name="event_detail_save">Save</string>
+
 </resources>
